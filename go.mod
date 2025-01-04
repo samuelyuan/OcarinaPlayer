@@ -6,8 +6,8 @@ toolchain go1.23.2
 
 require (
 	github.com/faiface/beep v1.1.0
-	github.com/hajimehoshi/ebiten/v2 v2.8.4
-	golang.org/x/image v0.22.0
+	github.com/hajimehoshi/ebiten/v2 v2.8.6
+	golang.org/x/image v0.23.0
 )
 
 require (
@@ -20,9 +20,9 @@ require (
 	github.com/jezek/xgb v1.1.1 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	golang.org/x/exp v0.0.0-20190731235908-ec7cb31e5a56 // indirect
-	golang.org/x/exp/shiny v0.0.0-20241108190413-2d47ceb2692f // indirect
-	golang.org/x/mobile v0.0.0-20241108191957-fa514ef75a0f // indirect
-	golang.org/x/sync v0.9.0 // indirect
-	golang.org/x/sys v0.27.0 // indirect
-	golang.org/x/text v0.20.0 // indirect
+	golang.org/x/exp/shiny v0.0.0-20250103183323-7d7fa50e5329 // indirect
+	golang.org/x/mobile v0.0.0-20250103163954-5e5de4c85663 // indirect
+	golang.org/x/sync v0.10.0 // indirect
+	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/text v0.21.0 // indirect
 )
